@@ -29,3 +29,6 @@ In der Vergangenheit haben wir in der Gilde Knowledge Aufbau betrieben – wir h
     * technischer Doku
   * Knowledge Base, im ersten Schritt im Azure DevOps Wiki (Lesezugriff für jeden Tieto Mitarbeiter kostenfrei möglich).
   * Chapter / Guildübergreifende Zusammenarbeit
+
+![image](https://github.com/user-attachments/assets/1d350396-1180-4f4c-b329-f9e48c370df2)
+

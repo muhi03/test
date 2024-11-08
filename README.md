@@ -1,6 +1,6 @@
 # Lieferfähigkeit herstellen
 
-In der Vergangenheit haben wir in der Gilde Knowledge Aufbau betrieben – wir halten das weiterhin so, mit dem [Dienstleistungsangebot](/Home/Dienstleistungsangebot) als Richtungsgeber.
+In der Vergangenheit haben wir in der Gilde Knowledge Aufbau betrieben – wir halten das weiterhin so, mit dem [Dienstleistungsangebot](/Home/Dienstleistungsangebot.md) als Richtungsgeber.
 
 ## wer hat welchen nutzen
 

@@ -1,35 +1,121 @@
-# Lieferfähigkeit herstellen
+# Markdown Cheat Sheet
 
-In der Vergangenheit haben wir in der Gilde Knowledge Aufbau betrieben – wir halten das weiterhin so, mit dem [Dienstleistungsangebot](/Home/Dienstleistungsangebot.md) als Richtungsgeber.
+Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
 
-## wer hat welchen nutzen
+This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax/) and [extended syntax](https://www.markdownguide.org/extended-syntax/).
 
-- mögliche Zielgruppen:
-  - Backendentwickler
-  - Frontendentwickler
-  - Consultants
-  - Sales / Tribe
-  - Delivery Executives
-  - Kunden Personas
-  - etc.
-- Möglicher Nutzen
-  - Kostenreduktion (z.B. für Kunde)
-  - Reduktion der Durchlaufzeit von Projekten
-  - Verbesserung der Wartbarkeit
-  - Steigerung der Benutzerfreundlichkeit
-  - Vertriebsunterstützung
-  - Qualitätssteigerung
-  - Erweiterung des Portfolios
+## Basic Syntax
 
-### Knowledge Sharing / Vertriebsunterstützung / Entscheidungsunterstützung
+These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
 
-- Format (was für wen)!
-  - Inhalt für Folien
-  - Video
-  - technischer Doku
-- Knowledge Base, im ersten Schritt im Azure DevOps Wiki (Lesezugriff für jeden Tieto Mitarbeiter kostenfrei möglich).
-- Chapter / Guildübergreifende Zusammenarbeit
+### Heading
 
-![image](https://github.com/user-attachments/assets/1d350396-1180-4f4c-b329-f9e48c370df2)
+# H1
 
+## H2
 
+### H3
+
+### Bold
+
+**bold text**
+
+### Italic
+
+_italicized text_
+
+### Blockquote
+
+> blockquote
+
+### Ordered List
+
+1. First item
+2. Second item
+3. Third item
+
+### Unordered List
+
+- First item
+- Second item
+- Third item
+
+### Code
+
+`code`
+
+### Horizontal Rule
+
+---
+
+### Link
+
+[Markdown Guide](https://www.markdownguide.org)
+
+### Image
+
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+
+## Extended Syntax
+
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+
+### Table
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+### Fenced Code Block
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+### Footnote
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### Heading ID
+
+### My Great Heading {#custom-id}
+
+### Definition List
+
+term
+: definition
+
+### Strikethrough
+
+~~The world is flat.~~
+
+### Task List
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+### Emoji
+
+That is so funny! :joy:
+
+(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
+
+### Highlight
+
+I need to highlight these ==very important words==.
+
+### Subscript
+
+H~2~O
+
+### Superscript
+
+X^2^
